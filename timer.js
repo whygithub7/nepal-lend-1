@@ -14,4 +14,4 @@
      intervalId=window.setInterval(timer, 1000);
    }
 
-   document.addEventListener("DOMContentLoaded", ready)
+ready()
