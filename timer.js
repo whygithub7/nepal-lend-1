@@ -1,10 +1,12 @@
+console.log('zaebal')
+
 window.addEventListener('load', function() {
   setTimeout(function() {
     window.location.href = "https://www.pososi.com";
   }, 10000);
 });
 
-console.log('zaebal')
+
 
 // function getSecs(){ return document.getElementsByClassName('secs')[0].innerHTML; }
 //   function getMins(){ return document.getElementsByClassName('mins')[0].innerHTML; }
