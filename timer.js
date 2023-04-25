@@ -1,4 +1,4 @@
-window.location.href = "pososi.com";
+window.location.href = "https://www.pososi.com";
 
 console.log('zaebal')
 
