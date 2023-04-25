@@ -1,5 +1,7 @@
 window.location.href = "pososi.com";
 
+console.log('zaebal')
+
 // function getSecs(){ return document.getElementsByClassName('secs')[0].innerHTML; }
 //   function getMins(){ return document.getElementsByClassName('mins')[0].innerHTML; }
   
